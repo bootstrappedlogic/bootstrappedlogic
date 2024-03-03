@@ -14,9 +14,7 @@ I have no set-in-stone agenda quite yet, and honestly that's the most exciting p
 - **Low-level/embedded programming**: I love the idea of taking an inanimate piece of metal and giving it life. I'm also incredibly interested in some of the more embedded applications for computers, namely aerospace technology and robotics. I recently purchased an STM32F4 discovery board and am looking forward to exploring some projects with that. The goal is to understand how embedded computer systems work at a fundamental level.
 - **Game development**: who doesn't love games? Built my first PC in 2017 and haven't looked back. In terms of development choices, I am looking at PyGame and Godot (GDscript) as two options.
 
-Who knows where this will go. If nothing else, hopefully this will motivate me to keep learning. 
-
-Go Blue!
+Who knows where this will go. If nothing else, hopefully this will motivate me to keep learning. I will absolutely not be taking this journey alone - I will be leaning heavily on the community to help me learn and grow, and look forward to someday being able to contribute myself. Please reach out if you want to connect!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -24,7 +22,7 @@ Go Blue!
 
 
 ## Contact
----
+
 [coming soon!]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
