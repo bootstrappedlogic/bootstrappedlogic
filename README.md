@@ -1,47 +1,32 @@
 <a name="readme-top"></a>
 
-### Prerequisites
+### hello world!
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
- ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+My name is Boots. I'll get to the point - I am a working professional with a side passion for technology. I plan to use this github to track my progress as I embark on a journey of self-discovery in my career.
 
+I formerly attended the University of Michigan, where I spent two years as an engineering student before transferring into the business school to get my BBA. I worked in the asset management arm of Deutsche Bank for a couple of years post-grad, then joined the IR departement for the world's largest public cannabis company, before most recently landing in a partner success role at an ed tech startup.
 
+Though my path has been nothing short of unique, my passionate curiosity for technology has remained constant throughout my entire journey. That said, I've decided to finally take the first tangible step toward methodically fostering that curiosity via self-learning the areas of computer science that interest me most. 
 
-## Roadmap
+I have no set-in-stone agenda quite yet, and honestly that's the most exciting part. I'm still in the *brain dump* phase of this whole process so I have a lot of thoughts in my head I'm hoping I can get out somehow. Right now, though, I have some general interest areas that I am looking to explore in the context of computer science and technology, and for now these are the areas I plan to explore futher via projects and online resources:
+- **Python (namely automation and data applications)**: Python was the first language I learned, and its ease of use often re-ignites my interest in programming. I've found that the most directly applicable uses for Python for me are around automation and data, and I actually use python in my job to automate tasks for both myself and teammates.
+- **Low-level/embedded programming**: I love the idea of taking an inanimate piece of metal and giving it life. I'm also incredibly interested in some of the more embedded applications for computers, namely aerospace technology and robotics.
+- **Game development**: who doesn't love games? Built my first PC in 2017 and haven't looked back. In terms of development choices, I am looking at PyGame and Godot (GDscript) as two options.
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+Who knows where this will go. If nothing else, hopefully this will motivate me to keep on track. 
 
-
-
-
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Go Blue!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 
-- Hi, I’m @bootstrappedlogic. I am currently a financial professional (started on Wall Street after university and have been doing this for four years).
-- I was previously a computer science engineering student before graduating with a business degree.
-- I've always missed the CSE work and have wanted to return to it. So I'm doing that.
-- I have no idea where this will lead me, but I figured I would document my results from day one.
-- I am creating this GitHub to track all of my progress from the very beginning (well, the beginning of my return).
-- I’m currently taking a beginner Python course to refresh my memory. From there, I will move into learning full stack development.
-- I’m looking to collaborate on just about anything and learn from just about anyone. Let's connect!
-- Creation date: September 19, 2023.
+## Contact
+
+[coming soon!]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!---
 bootstrappedlogic/bootstrappedlogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
