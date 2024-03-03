@@ -1,3 +1,37 @@
+<a name="readme-top"></a>
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+
+
+
+## Roadmap
+
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
+
+
+
+
+## Contact
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
 - Hi, I’m @bootstrappedlogic. I am currently a financial professional (started on Wall Street after university and have been doing this for four years).
 - I was previously a computer science engineering student before graduating with a business degree.
 - I've always missed the CSE work and have wanted to return to it. So I'm doing that.
