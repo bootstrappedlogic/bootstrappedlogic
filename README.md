@@ -2,7 +2,7 @@
 
 ### hello world!
 ---
-My name is Boots. I'll get to the point - I am a working professional with a side passion for technology. I plan to use this github to track my progress as I embark on a journey of self-discovery in my career.
+My name is Boots. I'll just get to the point - I am a working professional with a passion for technology. I plan to use this github to track my progress as I embark on a journey of learning and self-discovery.
 
 I formerly attended the University of Michigan, where I spent two years as an engineering student before transferring into the business school to get my BBA. I worked in the asset management arm of Deutsche Bank for a couple of years post-grad, then joined the IR departement for the world's largest public cannabis company, before most recently landing in a partner success role at an ed tech startup.
 
